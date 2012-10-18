@@ -1,0 +1,5 @@
+python-django (1.4.2-0) unstable; urgency=low
+
+  * Initial Bruno poor man package
+
+ -- Bruno Clermont <bruno.clermont@gmail.com>  Thu, 18 Oct 2012 13:12:00 +0200
